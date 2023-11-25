@@ -1,0 +1,50 @@
+/*------------------------------------------------------------------
+
+COLOR:	SKY BLUE	#00cdcd
+
+-------------------------------------------------------------------*/
+.portfolio-in:before, .btn-dark:hover, .services li:hover article a, #ajax-work-filter .cbp-filter-item:hover, #ajax-work-filter .cbp-filter-item-active, .cbp-l-filters-buttonCenter .cbp-filter-counter, .services li.colio-active-item article a, .colio-theme-black .colio-navigation a, .colio-theme-black .colio-close:before, header .navbar li.active a, header .navbar li a:hover, .search-icon a:hover, .top-info .social li a:hover, .portfolio .top-detail a:hover, .btn-1:hover i, .blog .date, .list-style-featured .icon, .counter, .plan .price, .history #timeline #dates li a.selected:before, .job-tittle .date, .job-skills li h6 i, .job-skills .progress-bar, .job-content .share-info .social li a:hover, .social li a:hover, .pagination>li>a.current, .pagination>li>a:hover, .cost-price-content .noUi-handle-lower, .cost-price-content .noUi-handle-upper, .services-in .icon, .nav-pills>li>a, .team-filter li a.active, .team-filter li a:hover {
+	background: #00cdcd !important;
+}
+a:hover, a:focus {
+	color: #00cdcd;
+}
+.post-content .tag, #ajax-work-filter .cbp-filter-item, .services article i, .services li.colio-active-item:before, .primary-color, .team article .social li a:hover, footer .tweet li:before, .who-we li i, .history #timeline #dates li a.selected:before, .sub-bnr .breadcrumb li a, .comments .media-heading a, .cate.result li:before, .cate li a:hover {
+	color: #00cdcd !important;
+}
+.portfolio .port-hover span, #ajax-work-filter .cbp-filter-item-active, #ajax-work-filter .cbp-filter-item:hover, .services li:hover article a i, .btn-1:hover i, .nav-pills>li>a, .team article .social li a:hover {
+	color: #fff !important;
+}
+.btn-dark:hover, #ajax-work-filter .cbp-filter-item, .blog .owl-dot.active span {
+	border-color: #00cdcd;
+}
+.our-team .team-hover {
+	background: rgba(0,0,0,0.8);
+}
+.cbp-l-filters-buttonCenter .cbp-filter-counter:after {
+	border-top-color: #00cdcd;
+}
+.portfolio .over-detail {
+	background: rgba(0,0,0,0.8);
+}
+.portfolio .top-detail a {
+	border-bottom: 1px solid #333;
+}
+.count:before {
+	background: rgba(255,255,255,0.8) !important;
+}
+.btn {
+	background: #00cdcd;
+}
+.btn i {
+	color: #00cdcd;
+}
+.btn-1 i {
+	color: #fff;
+}
+.btn:hover i {
+	color: #00cdcd;
+}
+.tags li a, .sm-tags {
+	background: #00cdcd;
+}
